@@ -2,8 +2,9 @@
 LineageOS
 
 # Requirements
-- 1GB SSD
-- 512MB RAM
+- 1GB SSD.
+- 512MB RAM.
+- 4-Core CPU.
 
 # Beta-Release
 - v9.2.0.0
