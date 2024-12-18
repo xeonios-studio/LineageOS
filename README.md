@@ -5,6 +5,7 @@ LineageOS
 - 1GB SSD.
 - 512MB RAM.
 - 4-Core CPU.
+- Internet connection.
 
 # Beta-Release
 - v9.2.0.0
