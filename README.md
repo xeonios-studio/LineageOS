@@ -1,7 +1,7 @@
 # LineageOS
 LineageOS
 
-# Requirements
+# Minimal-Requirements
 - 1GB SSD.
 - 512MB RAM.
 - 4-Core CPU.
